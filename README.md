@@ -8,7 +8,7 @@
 **Course:** Backend Development Fundamentals  
 **Faculty:** Sai Shiva Teja Sir  
 
-**Live Deployment:** Pending Render deployment
+**Live Deployment:** https://pratik-bdf-lab2.onrender.com
 
 ## Objective
 
